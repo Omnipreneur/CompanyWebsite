@@ -1,0 +1,330 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "solutions": "Çözümler",
+    "technology": "Teknoloji",
+    "references": "Referanslar",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "schedule": "Görüşme Planla"
+  },
+  "home": {
+    "hero": {
+      "title": "Dijital ve AI Destekli Kurumsal İş Sistemleri",
+      "subtitle": "Satış, müşteri ve operasyon süreçlerinizi; üretimde çalışan, ölçülebilir ve gözlemlenebilir sistemlerle dönüştürüyoruz.",
+      "ctaPrimary": "Görüşme Planla",
+      "ctaSecondary": "Çözümleri İncele"
+    },
+    "whatWeDo": {
+      "title": "Ne Yapıyoruz?",
+      "services": {
+        "digital": {
+          "title": "Kurumsal Dijital Sistemler",
+          "bullet1": "Web sitesi ve portal geliştirme",
+          "bullet2": "Admin panel ve yönetim sistemleri",
+          "bullet3": "Rol bazlı erişim kontrolü",
+          "link": "Detay"
+        },
+        "ai": {
+          "title": "AI Destekli Analiz & Otomasyon",
+          "bullet1": "WhatsApp ve e-posta analizi",
+          "bullet2": "Satış ve tahsilat içgörüleri",
+          "bullet3": "İş akışı otomasyonu",
+          "link": "Detay"
+        },
+        "observability": {
+          "title": "Operasyon & Gözlemlenebilirlik",
+          "bullet1": "Metrik, log ve tracing",
+          "bullet2": "SLO ve alarm yönetimi",
+          "bullet3": "Olay yönetimi süreçleri",
+          "link": "Detay"
+        }
+      }
+    },
+    "why": {
+      "title": "Neden Omnipreneur?",
+      "headline": "Demo ile üretim aynı şey değildir.",
+      "points": {
+        "performance": "Performans",
+        "cost": "Maliyet Kontrolü",
+        "observability": "Gözlemlenebilirlik",
+        "security": "Güvenlik & Yetkilendirme",
+        "continuity": "Operasyonel Süreklilik"
+      }
+    },
+    "useCase": {
+      "title": "Toptan Satış Firmaları için B2B Portal + AI İçgörü",
+      "step1": "Veri Kaynakları",
+      "step1Desc": "WhatsApp, Email, CRM, Sipariş/Tahsilat",
+      "step2": "AI Analiz",
+      "step2Desc": "Neden sonuçlanmadı, tahsilat riski, şikayet temaları",
+      "step3": "Yönetim Paneli",
+      "step3Desc": "Dashboard, aksiyon listesi, öneriler",
+      "cta": "Bu senaryo için demo iste"
+    },
+    "observability": {
+      "title": "İzleme ve Gözlemlenebilirlik: Sisteminizin gerçeği",
+      "description": "Metrikler, loglar, tracing, iş KPI'ları, SLO'lar, alarmlar ve olay yönetimi süreçleri ile sisteminizin tam görünürlüğü.",
+      "metrics": "Metrikler",
+      "logs": "Loglar",
+      "tracing": "Tracing",
+      "kpis": "İş Süreci KPI'ları"
+    },
+    "process": {
+      "title": "Nasıl Çalışıyoruz?",
+      "step1": "Keşif & Hedefler",
+      "step2": "Üretim Hazırlık Denetimi",
+      "step3": "Uygulama & Entegrasyon",
+      "step4": "İzleme & Operasyon",
+      "step5": "Sürekli İyileştirme"
+    },
+    "references": {
+      "title": "Referanslar",
+      "ref1": {
+        "title": "Federasyon Yönetim Sistemi ve Admin Panel",
+        "description": "Üyelik yönetimi, süreç otomasyonu ve raporlama"
+      },
+      "ref2": {
+        "title": "Kurumsal B2B Portal & İçgörü Platformu",
+        "description": "Müşteri portalı, AI destekli analiz ve dashboard"
+      }
+    },
+    "finalCta": {
+      "title": "Üretimde çalışan sistemlere geçelim.",
+      "ctaPrimary": "Görüşme Planla",
+      "ctaSecondary": "Teklif İste"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "digital": {
+      "title": "Kurumsal Dijital Sistemler",
+      "overview": "Kurumsal web siteleri, müşteri/bayi portalları ve admin panelleri geliştiriyoruz. Rol bazlı erişim kontrolü, raporlama ve entegrasyon odaklı çözümler sunuyoruz.",
+      "outcomes": "Çıktılar",
+      "outcome1": "Modern, ölçeklenebilir web platformları",
+      "outcome2": "Güvenli kullanıcı yönetimi ve yetkilendirme",
+      "outcome3": "Entegre raporlama ve dashboard'lar",
+      "deliverables": "Tipik Teslimatlar",
+      "deliverable1": "Web sitesi veya portal",
+      "deliverable2": "Admin panel ve yönetim arayüzü",
+      "deliverable3": "Rol bazlı erişim kontrolü (RBAC)",
+      "deliverable4": "Raporlama ve analitik modülleri",
+      "addons": "Opsiyonel Eklentiler",
+      "addon1": "Mobil uygulama entegrasyonu",
+      "addon2": "Çoklu dil desteği",
+      "addon3": "Özel entegrasyonlar (CRM, ERP)"
+    },
+    "ai": {
+      "title": "AI Destekli Analiz & Otomasyon",
+      "overview": "WhatsApp ve e-posta verilerinden müşteri içgörüleri çıkarıyoruz. Satış ve tahsilat analizi, şikayet kategorizasyonu ve iş akışı otomasyonu sağlıyoruz.",
+      "outcomes": "Çıktılar",
+      "outcome1": "Müşteri iletişim verilerinden otomatik içgörüler",
+      "outcome2": "Satış ve tahsilat risk analizi",
+      "outcome3": "İş akışı otomasyonu ve human-in-the-loop süreçler",
+      "deliverables": "Tipik Teslimatlar",
+      "deliverable1": "WhatsApp ve e-posta analiz sistemi",
+      "deliverable2": "Satış ve tahsilat içgörü dashboard'u",
+      "deliverable3": "Şikayet ve geri bildirim kategorizasyonu",
+      "deliverable4": "Otomatik iş akışı tetikleyicileri",
+      "addons": "Opsiyonel Eklentiler",
+      "addon1": "Gerçek zamanlı bildirimler",
+      "addon2": "Özel AI model eğitimi",
+      "addon3": "Çoklu kanal entegrasyonu"
+    },
+    "rag": {
+      "title": "RAG & Bilgi Sistemleri",
+      "overview": "Kurumsal bilgi tabanlarınızı RAG (Retrieval-Augmented Generation) sistemleri ile erişilebilir hale getiriyoruz. Kaliteli retrieval, erişim kontrolü ve güncellik yönetimi sağlıyoruz.",
+      "outcomes": "Çıktılar",
+      "outcome1": "Hızlı ve doğru bilgi erişimi",
+      "outcome2": "Güvenli ve kontrollü bilgi paylaşımı",
+      "outcome3": "Güncel ve doğrulanmış içerik",
+      "deliverables": "Tipik Teslimatlar",
+      "deliverable1": "Bilgi tabanı ingestion pipeline'ı",
+      "deliverable2": "Retrieval kalite değerlendirme sistemi",
+      "deliverable3": "Erişim kontrolü ve yetkilendirme",
+      "deliverable4": "İçerik güncellik yönetimi",
+      "addons": "Opsiyonel Eklentiler",
+      "addon1": "Çoklu format desteği (PDF, DOCX, web)",
+      "addon2": "Özel embedding modelleri",
+      "addon3": "Maliyet ve latency optimizasyonu"
+    },
+    "observability": {
+      "title": "Gözlemlenebilirlik & Operasyon",
+      "overview": "Sistemlerinizi üretim ortamında izliyoruz. Metrik, log ve tracing altyapısı kuruyoruz. SLO tasarımı, alarm yönetimi ve olay yanıt süreçleri oluşturuyoruz.",
+      "outcomes": "Çıktılar",
+      "outcome1": "Tam sistem görünürlüğü (metrik, log, tracing)",
+      "outcome2": "SLA/SLO tasarımı ve takibi",
+      "outcome3": "Olay yönetimi (incident) süreçleri",
+      "outcome4": "Maliyet görünürlüğü (FinOps farkındalığı)",
+      "deliverables": "Tipik Teslimatlar",
+      "deliverable1": "Monitoring ve alerting altyapısı",
+      "deliverable2": "Dashboard ve görselleştirme",
+      "deliverable3": "Log pipeline (örn: Grafana/Prometheus/Loki)",
+      "deliverable4": "Tracing ve distributed tracing",
+      "deliverable5": "SLO tanımları ve takip",
+      "deliverable6": "Olay yanıt playbook'ları",
+      "addons": "Opsiyonel Eklentiler",
+      "addon1": "Özel metrik ve KPI takibi",
+      "addon2": "Otomatik scaling politikaları",
+      "addon3": "Maliyet optimizasyon önerileri"
+    }
+  },
+  "solutions": {
+    "title": "Çözümlerimiz",
+    "wholesale": {
+      "title": "Toptan Satış: B2B Portal + Tahsilat & Satış İçgörüleri",
+      "problem": "Problem",
+      "problemText": "Toptan satış firmaları müşteri takibinde zorlanıyor. Tahsilat riskleri erken tespit edilemiyor. WhatsApp ve e-posta iletişimi yönetilemiyor.",
+      "approach": "Yaklaşım",
+      "approachText": "B2B portal ile sipariş yönetimi, AI destekli iletişim analizi ve tahsilat risk skorlaması.",
+      "measured": "Ne Ölçülüyor",
+      "measuredText": "Tahsilat gecikme süreleri, satış dönüşüm oranları, müşteri şikayet temaları, iletişim yanıt süreleri.",
+      "improves": "Ne İyileşiyor",
+      "improvesText": "Tahsilat tahmin doğruluğu, müşteri memnuniyeti, operasyonel verimlilik, satış ekibi üretkenliği."
+    },
+    "federation": {
+      "title": "Kurum/Federasyon: Üyelik + Süreç + Admin Panel",
+      "problem": "Problem",
+      "problemText": "Üyelik yönetimi manuel ve hataya açık. Süreç takibi zor. Raporlama gecikiyor.",
+      "approach": "Yaklaşım",
+      "approachText": "Merkezi üyelik yönetim sistemi, süreç otomasyonu ve kapsamlı admin panel.",
+      "measured": "Ne Ölçülüyor",
+      "measuredText": "Üyelik işlem süreleri, süreç tamamlanma oranları, raporlama doğruluğu.",
+      "improves": "Ne İyileşiyor",
+      "improvesText": "Operasyonel hız, veri doğruluğu, yönetim görünürlüğü."
+    },
+    "operations": {
+      "title": "Operasyon: Gözlemlenebilirlik Kurulumu + Alarm/SLO",
+      "problem": "Problem",
+      "problemText": "Sistemler izlenmiyor. Sorunlar geç fark ediliyor. SLO'lar tanımlı değil.",
+      "approach": "Yaklaşım",
+      "approachText": "Metrik, log ve tracing altyapısı, SLO tasarımı, alarm kuralları ve olay yönetimi süreçleri.",
+      "measured": "Ne Ölçülüyor",
+      "measuredText": "Sistem sağlık metrikleri, hata oranları, yanıt süreleri, SLO uyumluluğu.",
+      "improves": "Ne İyileşiyor",
+      "improvesText": "Olay tespit süresi, sistem güvenilirliği, operasyonel farkındalık."
+    },
+    "catalog": {
+      "title": "Katalog: AI Destekli Katalog ve İçerik Standardizasyonu",
+      "problem": "Problem",
+      "problemText": "Ürün katalogları tutarsız. İçerik standardizasyonu yok. Arama ve filtreleme yetersiz.",
+      "approach": "Yaklaşım",
+      "approachText": "AI destekli içerik standardizasyonu, gelişmiş arama ve kategorizasyon.",
+      "measured": "Ne Ölçülüyor",
+      "measuredText": "İçerik tutarlılığı, arama başarı oranları, kullanıcı etkileşim metrikleri.",
+      "improves": "Ne İyileşiyor",
+      "improvesText": "Kullanıcı deneyimi, içerik kalitesi, operasyonel verimlilik."
+    }
+  },
+  "technology": {
+    "title": "Teknoloji & Yaklaşım",
+    "principles": {
+      "title": "İlkelerimiz",
+      "reliability": {
+        "title": "Güvenilirlik Öncelikli",
+        "description": "Üretim ortamında çalışan, ölçeklenebilir ve dayanıklı sistemler."
+      },
+      "measurable": {
+        "title": "Ölçülebilir Sonuçlar",
+        "description": "Her özellik için metrikler, KPI'lar ve başarı kriterleri tanımlıyoruz."
+      },
+      "security": {
+        "title": "Güvenlik Varsayılan",
+        "description": "KVKK uyumlu, erişim kontrolü ve güvenlik en iyi uygulamaları."
+      },
+      "integration": {
+        "title": "Entegrasyona Hazır",
+        "description": "Mevcut sistemlerinizle uyumlu, API-first yaklaşım."
+      }
+    },
+    "architecture": {
+      "title": "Mimari",
+      "modular": "Modüler servisler",
+      "event": "Event-driven seçenekler",
+      "audit": "Audit log'lar"
+    },
+    "observability": {
+      "title": "Gözlemlenebilirlik Stack",
+      "description": "Metrik, log ve tracing altyapısı. Vendor-locked olmayan, açık standartlar."
+    },
+    "governance": {
+      "title": "Veri Yönetimi",
+      "kvkk": "KVKK farkındalığı",
+      "access": "Erişim kontrolleri"
+    },
+    "environments": {
+      "title": "Ortamlar",
+      "cicd": "CI/CD",
+      "parity": "Staging/prod parity"
+    }
+  },
+  "references": {
+    "title": "Nasıl Çözdük?",
+    "federation": {
+      "title": "Federasyon Web + Admin Panel",
+      "context": "Bağlam",
+      "contextText": "Bir federasyon, üyelik yönetimi, süreç takibi ve raporlama için merkezi bir sistem ihtiyacı duyuyordu.",
+      "built": "Ne İnşa Ettik",
+      "builtText": "Üyelik portalı, kapsamlı admin panel, rol bazlı erişim kontrolü ve dashboard'lar.",
+      "measured": "Ne Ölçtük",
+      "measuredText": "Üyelik işlem süreleri %60 azaldı. Raporlama doğruluğu %95'e çıktı.",
+      "operations": "Operasyonel Uygulamalar",
+      "operationsText": "Günlük sistem sağlık kontrolleri, haftalık performans raporları, otomatik yedekleme."
+    },
+    "b2b": {
+      "title": "B2B Toptan Satış Senaryosu",
+      "context": "Bağlam",
+      "contextText": "Toptan satış firması müşteri takibi, tahsilat riski ve iletişim yönetiminde zorlanıyordu.",
+      "built": "Ne İnşa Ettik",
+      "builtText": "B2B portal, AI destekli iletişim analizi, tahsilat risk skorlaması ve yönetim dashboard'u.",
+      "measured": "Ne Ölçtük",
+      "measuredText": "Tahsilat gecikme tahmin doğruluğu %85'e çıktı. Müşteri şikayet yanıt süresi %40 azaldı.",
+      "operations": "Operasyonel Uygulamalar",
+      "operationsText": "Günlük risk skorları, haftalık satış içgörü raporları, otomatik alarmlar."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "categories": {
+      "operations": "Operasyon",
+      "ai": "AI Sistemleri",
+      "observability": "Gözlemlenebilirlik",
+      "b2b": "B2B"
+    },
+    "readTime": "dakika okuma",
+    "related": "İlgili Yazılar"
+  },
+  "contact": {
+    "title": "İletişim",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "company": "Şirket",
+      "message": "Mesaj",
+      "interest": "İlgi Alanı",
+      "interestOptions": {
+        "b2b": "B2B Portal",
+        "ai": "AI Analiz",
+        "rag": "RAG",
+        "observability": "Gözlemlenebilirlik",
+        "other": "Diğer"
+      },
+      "submit": "Gönder",
+      "scheduling": "Görüşme planlamak için"
+    },
+    "info": {
+      "email": "info@omnipreneur.io",
+      "location": "Ankara, Türkiye"
+    }
+  },
+  "footer": {
+    "statement": "Dijital ve AI destekli kurumsal iş sistemleri. Üretimde çalışan, ölçülebilir ve gözlemlenebilir çözümler.",
+    "links": "Hızlı Bağlantılar",
+    "legal": "Yasal",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik",
+    "copyright": "© 2024 Omnipreneur. Tüm hakları saklıdır."
+  }
+}
+

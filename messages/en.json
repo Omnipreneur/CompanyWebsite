@@ -1,0 +1,330 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "technology": "Technology",
+    "references": "References",
+    "blog": "Blog",
+    "contact": "Contact",
+    "schedule": "Schedule a Call"
+  },
+  "home": {
+    "hero": {
+      "title": "Production-Ready Digital & AI Systems for Enterprises",
+      "subtitle": "We modernize sales, customer, and operations workflows with measurable, observable, and reliable systems.",
+      "ctaPrimary": "Schedule a Call",
+      "ctaSecondary": "Explore Solutions"
+    },
+    "whatWeDo": {
+      "title": "What We Do",
+      "services": {
+        "digital": {
+          "title": "Enterprise Digital Systems",
+          "bullet1": "Website and portal development",
+          "bullet2": "Admin panel and management systems",
+          "bullet3": "Role-based access control",
+          "link": "Details"
+        },
+        "ai": {
+          "title": "AI-Powered Analysis & Automation",
+          "bullet1": "WhatsApp and email analysis",
+          "bullet2": "Sales and collection insights",
+          "bullet3": "Workflow automation",
+          "link": "Details"
+        },
+        "observability": {
+          "title": "Operations & Observability",
+          "bullet1": "Metrics, logs, and tracing",
+          "bullet2": "SLO and alarm management",
+          "bullet3": "Incident management processes",
+          "link": "Details"
+        }
+      }
+    },
+    "why": {
+      "title": "Why Omnipreneur?",
+      "headline": "Demos and production are not the same thing.",
+      "points": {
+        "performance": "Performance",
+        "cost": "Cost Control",
+        "observability": "Observability",
+        "security": "Security & Authorization",
+        "continuity": "Operational Continuity"
+      }
+    },
+    "useCase": {
+      "title": "B2B Portal + AI Insights for Wholesale Companies",
+      "step1": "Data Sources",
+      "step1Desc": "WhatsApp, Email, CRM, Orders/Collections",
+      "step2": "AI Analysis",
+      "step2Desc": "Why didn't close, collection risk, complaint themes",
+      "step3": "Management Panel",
+      "step3Desc": "Dashboard, action list, recommendations",
+      "cta": "Request demo for this scenario"
+    },
+    "observability": {
+      "title": "Monitoring & Observability: The truth about your system",
+      "description": "Complete system visibility with metrics, logs, tracing, business KPIs, SLOs, alerts, and incident management processes.",
+      "metrics": "Metrics",
+      "logs": "Logs",
+      "tracing": "Tracing",
+      "kpis": "Business Process KPIs"
+    },
+    "process": {
+      "title": "How We Work",
+      "step1": "Discovery & Goals",
+      "step2": "Production Readiness Audit",
+      "step3": "Implementation & Integration",
+      "step4": "Monitoring & Operations",
+      "step5": "Continuous Improvement"
+    },
+    "references": {
+      "title": "References",
+      "ref1": {
+        "title": "Federation Management System and Admin Panel",
+        "description": "Membership management, process automation, and reporting"
+      },
+      "ref2": {
+        "title": "Enterprise B2B Portal & Insights Platform",
+        "description": "Customer portal, AI-powered analytics, and dashboard"
+      }
+    },
+    "finalCta": {
+      "title": "Let's move to production-ready systems.",
+      "ctaPrimary": "Schedule a Call",
+      "ctaSecondary": "Request Quote"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "digital": {
+      "title": "Enterprise Digital Systems",
+      "overview": "We develop enterprise websites, customer/distributor portals, and admin panels. We offer role-based access control, reporting, and integration-focused solutions.",
+      "outcomes": "Outcomes",
+      "outcome1": "Modern, scalable web platforms",
+      "outcome2": "Secure user management and authorization",
+      "outcome3": "Integrated reporting and dashboards",
+      "deliverables": "Typical Deliverables",
+      "deliverable1": "Website or portal",
+      "deliverable2": "Admin panel and management interface",
+      "deliverable3": "Role-based access control (RBAC)",
+      "deliverable4": "Reporting and analytics modules",
+      "addons": "Optional Add-ons",
+      "addon1": "Mobile app integration",
+      "addon2": "Multi-language support",
+      "addon3": "Custom integrations (CRM, ERP)"
+    },
+    "ai": {
+      "title": "AI-Powered Analysis & Automation",
+      "overview": "We extract customer insights from WhatsApp and email data. We provide sales and collection analysis, complaint categorization, and workflow automation.",
+      "outcomes": "Outcomes",
+      "outcome1": "Automatic insights from customer communication data",
+      "outcome2": "Sales and collection risk analysis",
+      "outcome3": "Workflow automation and human-in-the-loop processes",
+      "deliverables": "Typical Deliverables",
+      "deliverable1": "WhatsApp and email analysis system",
+      "deliverable2": "Sales and collection insights dashboard",
+      "deliverable3": "Complaint and feedback categorization",
+      "deliverable4": "Automated workflow triggers",
+      "addons": "Optional Add-ons",
+      "addon1": "Real-time notifications",
+      "addon2": "Custom AI model training",
+      "addon3": "Multi-channel integration"
+    },
+    "rag": {
+      "title": "RAG & Knowledge Systems",
+      "overview": "We make your enterprise knowledge bases accessible with RAG (Retrieval-Augmented Generation) systems. We provide quality retrieval, access control, and freshness management.",
+      "outcomes": "Outcomes",
+      "outcome1": "Fast and accurate information access",
+      "outcome2": "Secure and controlled information sharing",
+      "outcome3": "Current and verified content",
+      "deliverables": "Typical Deliverables",
+      "deliverable1": "Knowledge base ingestion pipeline",
+      "deliverable2": "Retrieval quality assessment system",
+      "deliverable3": "Access control and authorization",
+      "deliverable4": "Content freshness management",
+      "addons": "Optional Add-ons",
+      "addon1": "Multi-format support (PDF, DOCX, web)",
+      "addon2": "Custom embedding models",
+      "addon3": "Cost and latency optimization"
+    },
+    "observability": {
+      "title": "Observability & Operations",
+      "overview": "We monitor your systems in production. We set up metric, log, and tracing infrastructure. We create SLO design, alarm management, and incident response processes.",
+      "outcomes": "Outcomes",
+      "outcome1": "Complete system visibility (metrics, logs, tracing)",
+      "outcome2": "SLA/SLO design and tracking",
+      "outcome3": "Incident management processes",
+      "outcome4": "Cost visibility (FinOps awareness)",
+      "deliverables": "Typical Deliverables",
+      "deliverable1": "Monitoring and alerting infrastructure",
+      "deliverable2": "Dashboards and visualization",
+      "deliverable3": "Log pipeline (e.g., Grafana/Prometheus/Loki)",
+      "deliverable4": "Tracing and distributed tracing",
+      "deliverable5": "SLO definitions and tracking",
+      "deliverable6": "Incident response playbooks",
+      "addons": "Optional Add-ons",
+      "addon1": "Custom metrics and KPI tracking",
+      "addon2": "Automatic scaling policies",
+      "addon3": "Cost optimization recommendations"
+    }
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "wholesale": {
+      "title": "Wholesale: B2B Portal + Collection & Sales Insights",
+      "problem": "Problem",
+      "problemText": "Wholesale companies struggle with customer follow-up. Collection risks are not detected early. WhatsApp and email communication cannot be managed.",
+      "approach": "Approach",
+      "approachText": "B2B portal for order management, AI-powered communication analysis, and collection risk scoring.",
+      "measured": "What Gets Measured",
+      "measuredText": "Collection delay times, sales conversion rates, customer complaint themes, communication response times.",
+      "improves": "What Improves",
+      "improvesText": "Collection prediction accuracy, customer satisfaction, operational efficiency, sales team productivity."
+    },
+    "federation": {
+      "title": "Organization/Federation: Membership + Process + Admin Panel",
+      "problem": "Problem",
+      "problemText": "Membership management is manual and error-prone. Process tracking is difficult. Reporting is delayed.",
+      "approach": "Approach",
+      "approachText": "Centralized membership management system, process automation, and comprehensive admin panel.",
+      "measured": "What Gets Measured",
+      "measuredText": "Membership processing times, process completion rates, reporting accuracy.",
+      "improves": "What Improves",
+      "improvesText": "Operational speed, data accuracy, management visibility."
+    },
+    "operations": {
+      "title": "Operations: Observability Setup + Alarm/SLO",
+      "problem": "Problem",
+      "problemText": "Systems are not monitored. Problems are detected late. SLOs are not defined.",
+      "approach": "Approach",
+      "approachText": "Metrics, logs, and tracing infrastructure, SLO design, alarm rules, and incident management processes.",
+      "measured": "What Gets Measured",
+      "measuredText": "System health metrics, error rates, response times, SLO compliance.",
+      "improves": "What Improves",
+      "improvesText": "Incident detection time, system reliability, operational awareness."
+    },
+    "catalog": {
+      "title": "Catalog: AI-Powered Catalog and Content Standardization",
+      "problem": "Problem",
+      "problemText": "Product catalogs are inconsistent. No content standardization. Search and filtering are inadequate.",
+      "approach": "Approach",
+      "approachText": "AI-powered content standardization, advanced search, and categorization.",
+      "measured": "What Gets Measured",
+      "measuredText": "Content consistency, search success rates, user interaction metrics.",
+      "improves": "What Improves",
+      "improvesText": "User experience, content quality, operational efficiency."
+    }
+  },
+  "technology": {
+    "title": "Technology & Approach",
+    "principles": {
+      "title": "Our Principles",
+      "reliability": {
+        "title": "Reliability First",
+        "description": "Systems that work in production, scalable and resilient."
+      },
+      "measurable": {
+        "title": "Measurable Outcomes",
+        "description": "We define metrics, KPIs, and success criteria for every feature."
+      },
+      "security": {
+        "title": "Security by Default",
+        "description": "GDPR-compliant, access control, and security best practices."
+      },
+      "integration": {
+        "title": "Integration Ready",
+        "description": "Compatible with your existing systems, API-first approach."
+      }
+    },
+    "architecture": {
+      "title": "Architecture",
+      "modular": "Modular services",
+      "event": "Event-driven options",
+      "audit": "Audit logs"
+    },
+    "observability": {
+      "title": "Observability Stack",
+      "description": "Metrics, logs, and tracing infrastructure. Vendor-locked free, open standards."
+    },
+    "governance": {
+      "title": "Data Governance",
+      "kvkk": "GDPR awareness",
+      "access": "Access controls"
+    },
+    "environments": {
+      "title": "Environments",
+      "cicd": "CI/CD",
+      "parity": "Staging/prod parity"
+    }
+  },
+  "references": {
+    "title": "How We Solved It",
+    "federation": {
+      "title": "Federation Web + Admin Panel",
+      "context": "Context",
+      "contextText": "A federation needed a centralized system for membership management, process tracking, and reporting.",
+      "built": "What We Built",
+      "builtText": "Membership portal, comprehensive admin panel, role-based access control, and dashboards.",
+      "measured": "What We Measured",
+      "measuredText": "Membership processing times decreased by 60%. Reporting accuracy increased to 95%.",
+      "operations": "Operational Practices",
+      "operationsText": "Daily system health checks, weekly performance reports, automatic backups."
+    },
+    "b2b": {
+      "title": "B2B Wholesale Scenario",
+      "context": "Context",
+      "contextText": "A wholesale company struggled with customer follow-up, collection risk, and communication management.",
+      "built": "What We Built",
+      "builtText": "B2B portal, AI-powered communication analysis, collection risk scoring, and management dashboard.",
+      "measured": "What We Measured",
+      "measuredText": "Collection delay prediction accuracy increased to 85%. Customer complaint response time decreased by 40%.",
+      "operations": "Operational Practices",
+      "operationsText": "Daily risk scores, weekly sales insights reports, automatic alarms."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "categories": {
+      "operations": "Operations",
+      "ai": "AI Systems",
+      "observability": "Observability",
+      "b2b": "B2B"
+    },
+    "readTime": "min read",
+    "related": "Related Posts"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "interest": "Interest Area",
+      "interestOptions": {
+        "b2b": "B2B Portal",
+        "ai": "AI Analysis",
+        "rag": "RAG",
+        "observability": "Gözlemlenebilirlik",
+        "other": "Other"
+      },
+      "submit": "Submit",
+      "scheduling": "To schedule a meeting"
+    },
+    "info": {
+      "email": "info@omnipreneur.io",
+      "location": "Ankara, Turkey"
+    }
+  },
+  "footer": {
+    "statement": "Digital and AI-powered enterprise business systems. Production-ready, measurable, and observable solutions.",
+    "links": "Quick Links",
+    "legal": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "copyright": "© 2024 Omnipreneur. All rights reserved."
+  }
+}
+
